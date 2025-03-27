@@ -17,3 +17,6 @@
 - Orijinal göz desenleri ve animasyon geçişleri.  
 - Dinamik zamanlama sistemi (standart kütüphanelerde yok).  
 - Türkçe yorumlarla yerel topluma katkı.  
+
+
+![Proje Önizleme](images/circuit-diagram.png)
