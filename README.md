@@ -16,7 +16,24 @@
 ## 💡 Bu Proje Neden Özgün?
 - Orijinal göz desenleri ve animasyon geçişleri.  
 - Dinamik zamanlama sistemi (standart kütüphanelerde yok).  
-- Türkçe yorumlarla yerel topluma katkı.  
+- Türkçe yorumlarla yerel topluma katkı.
+
+Bu proje, LED matris kontrolü için temel yöntemlerden esinlenilerek geliştirilmiştir. 
+Animasyonlar ve sistem özellikleri tamamen özgündür.
 
 
 ![Proje Önizleme](images/circuit-diagram.png)
+
+
+## 📜 Lisans
+Bu proje [MIT Lisansı](LICENSE) altında yayınlanmıştır. Açık kaynak kullanımı teşvik etmek için oluşturulmuştur.
+
+**Temel Haklar:**
+- Kodu ücretsiz kullanabilir, değiştirebilir ve dağıtabilirsiniz
+- Ticari projelerde kullanılabilir
+- Yalnızca orijinal lisans metnini ve telif hakkı bildirimini korumalısınız
+
+Detaylı lisans koşulları için: [LICENSE dosyasını inceleyin](LICENSE)
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
