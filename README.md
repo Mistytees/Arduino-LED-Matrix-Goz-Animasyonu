@@ -1,5 +1,5 @@
 # Arduino-LED-Matrix-Goz-Animasyonu
-8x8 LED matris üzerinde özgün göz kırpma animasyonu + otomatik reset özelliği (Türkçe dokümantasyon)
+8x8 LED matris (1088BS) üzerinde özgün göz kırpma animasyonu + otomatik reset özelliği (Türkçe dokümantasyon)
 
 ## 🔍 Proje Özellikleri
 - **Göz Animasyonları**: Tam açık, yarı açık, kapalı (8x8 özel desenler).  
