@@ -26,14 +26,17 @@ Animasyonlar ve sistem özellikleri tamamen özgündür.
 
 
 ## 📜 Lisans
-Bu proje [MIT Lisansı](LICENSE) altında yayınlanmıştır. Açık kaynak kullanımı teşvik etmek için oluşturulmuştur.
 
-**Temel Haklar:**
-- Kodu ücretsiz kullanabilir, değiştirebilir ve dağıtabilirsiniz
-- Ticari projelerde kullanılabilir
-- Yalnızca orijinal lisans metnini ve telif hakkı bildirimini korumalısınız
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. 
+Açık kaynak kullanımını teşvik etmek için oluşturulmuştur.
 
-Detaylı lisans koşulları için: [LICENSE dosyasını inceleyin](LICENSE)
+**Temel Koşullar:**
+
+✔ Kod üzerinde istediğiniz değişiklikleri yapabilirsiniz  
+✔ Ticari projelerde kullanabilirsiniz  
+✖ Sadece lisans metnini ve telif hakkı bildirimini korumalısınız  
+
+Detaylar için: [LICENSE dosyasını inceleyin](LICENSE)
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
