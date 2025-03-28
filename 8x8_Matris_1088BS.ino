@@ -1,5 +1,5 @@
 /* 
- * 1088BS LED MATRIX KONTROL SİSTEMİ
+ * 1088BS LED MATRIX KONTROL SİSTEMİ 
  * Göz kırpma animasyonu ve otomatik reset özellikli
  * 
  * Donanım Bağlantıları:
